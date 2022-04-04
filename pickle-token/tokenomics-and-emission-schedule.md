@@ -11,3 +11,6 @@ PICKLE tokenomics officially began its first week of emissions on Friday, Septem
 The original tokenomics plan called for a 10% reduction in emissions each week in perpetuity until emissions reached the terminal figure of 329 PICKLE per week. However, on March 15th, 2021, a snapshot vote was held for PIP-32, freezing emissions at 0.1 per block (or around 4200 per week) to maintain some room for growth for the protocol.
 
 After the release of DILL and plans to expand Pickle onto the Polygon network, a new snapshot vote was held on May 13th to expand emissions to 0.3 pickles per block, or around 12,600 per week, in order to support these expansion plans and compete for deposits in new markets. The new emissions schedule will last until the end of 2021.
+
+On Nov 8th 2021 there was a vote ([PIP-47](https://snapshot.org/#/pickle.eth/proposal/0x35d5a47250834f82dc3ee3d9e0ed329a2b31dadfc80e985a495819dbf5af5a2a)) for PICKLE token emission to reduce to 0.05 PICKLE per block.&#x20;
+

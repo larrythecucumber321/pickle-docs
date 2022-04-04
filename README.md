@@ -11,9 +11,7 @@ description: >-
 ### Pickle Finance is a Yield Aggregator
 
 * Pickle aggregates and compounds yield from other protocols
-* It saves you time and money compared to doing it yourself.&#x20;
-
-Decentralized Finance (DeFi) has grown tremendously over the past year. There are many parts of DeFi, including lending platforms, liquidity protocols, stock synthetics, automated market makers, and more. Yield aggregators are another option in the Decentralized Finance space. \
+* It saves you time and money compared to doing it yourself. \
 
 
 Yield Aggregators exist for yield farmers (like you) who want to invest money and maximize profits by leveraging different DeFi protocols and strategies for elevated returns. Pickle Finance makes it easy for you to earn great compounding yields on your deposits, when you don’t have the time to compound it daily or the gas fee is too high for frequent compounding to be done. In short, Pickle Finance is always on the lookout for opportunities to generate yield on your assets for all risk tolerance levels. \
