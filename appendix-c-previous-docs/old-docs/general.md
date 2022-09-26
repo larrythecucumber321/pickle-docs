@@ -22,7 +22,7 @@ There is no hard cap on the supply of PICKLEs. The emission schedule can be foun
 The Pickle Finance community and PICKLE/ETH liquidity providers (see [Farms](farms.md)) wield the power to shape the future of the protocol.&#x20;
 
 * [https://snapshot.page/#/pickle](https://snapshot.page/#/pickle) is used to vote for Pickle Improvement Proposals (PIPs). Quadratic voting is used to ensure a more democratic form of governance. This will soon be replaced by [DILLS.](broken-reference)&#x20;
-* [https://forum.pickle.finance/](https://forum.pickle.finance) is a Discourse forum for having focused discussions on ways to make Pickle Finance even better.
+* [https://forum.pickle.finance/](https://forum.pickle.finance/) is a Discourse forum for having focused discussions on ways to make Pickle Finance even better.
 
 
 

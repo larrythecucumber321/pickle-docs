@@ -27,4 +27,4 @@ Farm weights are updated weekly on Thursdays at midnight UTC. The most recent vo
 
 #### Who can vote for gauge weights?
 
-Users who have locked their PICKLEs for DILL will be able to vote on how they would like their vote weight to be distributed across one or more Farms. The weights ultimately applied to the various Farms depend on the allocation and DILL balance of the users who vote. In short, users with more DILL get more voting power. Users can cast their votes on the [farms page](https://app.pickle.finance/farms). A guide on how to do so can be found [here](dill/farm-weights-voting.md).
+Users who have locked their PICKLEs for DILL will be able to vote on how they would like their vote weight to be distributed across one or more Farms. The weights ultimately applied to the various Farms depend on the allocation and DILL balance of the users who vote. In short, users with more DILL get more voting power. Users can cast their votes on the [farms page](https://app.pickle.finance/farms). A guide on how to do so can be found [here](broken-reference).

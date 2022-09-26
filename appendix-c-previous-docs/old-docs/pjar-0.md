@@ -6,7 +6,7 @@ description: The CRV Mining Jars
 
 ### **What is pJar 0.00?**&#x20;
 
-pJar 0.00 is Pickle Finance's first set of pJars which involves a user depositing one of the LP tokens received from supplying liquidity on [Curve.Fi](http://curve.fi). Pickle Finance currently accepts three different Curve deposit tokens:
+pJar 0.00 is Pickle Finance's first set of pJars which involves a user depositing one of the LP tokens received from supplying liquidity on [Curve.Fi](http://curve.fi/). Pickle Finance currently accepts three different Curve deposit tokens:
 
 | Deposit Token/pJar                                 | How to Obtain                                                                             | Returned Token | Current Strategy                                                                                  |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------- |

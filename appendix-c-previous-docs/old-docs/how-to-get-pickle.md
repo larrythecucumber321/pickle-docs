@@ -8,13 +8,13 @@ Before confirming your transaction, always verify the PICKLE token smart contrac
 
 ![](../../.gitbook/assets/uni1.PNG)
 
-You can also click on the **TRADE $PICKLE** link on our [website](https://app.pickle.finance) to be redirected to the Uniswap Pool.
+You can also click on the **TRADE $PICKLE** link on our [website](https://app.pickle.finance/) to be redirected to the Uniswap Pool.
 
 ![](../../.gitbook/assets/unilink.PNG)
 
 ### Centralized Exchanges
 
-PICKLE tokens are listed on a number of centralized exchanges, including on [OKEX](https://www.okex.com), [Bilaxy](https://bilaxy.com), [MXC](https://www.mxc.com), [AEX](https://www.aex.com/page/trade.html?mk\_type=USDT\&trade\_coin\_name=PICKLE#/) and [Hotbit](https://www.hotbit.io/exchange?symbol=PICKLE\_USDT).&#x20;
+PICKLE tokens are listed on a number of centralized exchanges, including on [OKEX](https://www.okex.com/), [Bilaxy](https://bilaxy.com/), [MXC](https://www.mxc.com/), [AEX](https://www.aex.com/page/trade.html?mk\_type=USDT\&trade\_coin\_name=PICKLE#/) and [Hotbit](https://www.hotbit.io/exchange?symbol=PICKLE\_USDT).&#x20;
 
 ### Decentralized Exchanges 
 

@@ -118,7 +118,7 @@ Deposit **PICKLE and DAI** at 50-50 rate in Sushiswap’s [PICKLE/DAI](https://a
 * Problems with Polygon Network\
 
 
-**polyJar 5a**: a Quickswap strategy for [MAI/USDC](https://quickswap.exchange/#/add/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174) (an LP of MAI/USDC). MAI is a native Polygon Collaterized Stablecoin. Read more about Mai Finance [here](https://docs.mai.finance). QI reward is reinvested for more LP.
+**polyJar 5a**: a Quickswap strategy for [MAI/USDC](https://quickswap.exchange/#/add/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174) (an LP of MAI/USDC). MAI is a native Polygon Collaterized Stablecoin. Read more about Mai Finance [here](https://docs.mai.finance/). QI reward is reinvested for more LP.
 
 **Social Media**: [Discord](https://discord.gg/mQq55j65xJ) / [Telegram\
 ](https://t.me/QiDaoProtocol)\
@@ -133,7 +133,7 @@ Deposit **MAI and USDC** at 50-50 rate in Quickswap’s [MAI/USDC](https://quick
 * Problems with Polygon Network\
 
 
-**polyJar 5b**: a Quickswap strategy for [MAI/QI](https://quickswap.exchange/#/add/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/0x580A84C73811E1839F75d86d75d88cCa0c241fF4) (an LP of MAI/QI). Read more about Mai Finance [here](https://docs.mai.finance). QI reward is reinvested for more LP.
+**polyJar 5b**: a Quickswap strategy for [MAI/QI](https://quickswap.exchange/#/add/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/0x580A84C73811E1839F75d86d75d88cCa0c241fF4) (an LP of MAI/QI). Read more about Mai Finance [here](https://docs.mai.finance/). QI reward is reinvested for more LP.
 
 **Social Media**: [Discord](https://discord.gg/mQq55j65xJ) / [Telegram\
 ](https://t.me/QiDaoProtocol)\
@@ -148,7 +148,7 @@ Deposit **MAI and QI** at 50-50 rate in Quickswap’s [MAI/QI](https://quickswap
 * Problems with Polygon Network\
 
 
-**polyJar 6a**: A Curve strategy for [IS3USD](https://app.iron.finance/swap/pools/is3usd/deposit) pool (IS3USD pool employs the 3 most popular stablecoins to peg to US$1 and the switching between them to be stable at $1, learn more about[ DAI](https://makerdao.com/en/),[ USDC](https://www.circle.com/en/usdc), and[ USDT](https://tether.to)). Read more about Iron Finance [here](https://docs.iron.finance). ICE reward is reinvested for more LP.
+**polyJar 6a**: A Curve strategy for [IS3USD](https://app.iron.finance/swap/pools/is3usd/deposit) pool (IS3USD pool employs the 3 most popular stablecoins to peg to US$1 and the switching between them to be stable at $1, learn more about[ DAI](https://makerdao.com/en/),[ USDC](https://www.circle.com/en/usdc), and[ USDT](https://tether.to/)). Read more about Iron Finance [here](https://docs.iron.finance/). ICE reward is reinvested for more LP.
 
 **Social Media**: [Discord](https://discord.com/invite/RtA37hgGrK)[\
 ](https://t.me/QiDaoProtocol)\

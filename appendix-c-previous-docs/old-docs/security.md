@@ -6,7 +6,7 @@ Security is paramount in DeFi, where a large amount of trust must be placed on p
 
 ### MixBytes Audit
 
-An audit of the full suite of Pickle Finance smart contracts by [MixBytes](https://mixbytes.io) commenced on October 3, 2020.&#x20;
+An audit of the full suite of Pickle Finance smart contracts by [MixBytes](https://mixbytes.io/) commenced on October 3, 2020.&#x20;
 
 To date, the all of the PickleJar [**strategy** ](strategies.md)contracts have been audited.&#x20;
 
@@ -16,7 +16,7 @@ An audit of the remaining contracts is underway and is expected to complete shor
 
 ### **Haechi Audit**&#x20;
 
-An audit of the full suite of Pickle Finance smart contracts by [Haechi](https://audit.haechi.io) commenced on October 20, 2020.&#x20;
+An audit of the full suite of Pickle Finance smart contracts by [Haechi](https://audit.haechi.io/) commenced on October 20, 2020.&#x20;
 
 Haechi has completed a preliminary audit of our smart contracts. We are currently working through remediations, at which point a final report will be issued.
 

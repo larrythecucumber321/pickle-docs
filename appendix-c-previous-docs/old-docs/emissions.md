@@ -1,6 +1,6 @@
 # Emission Schedule
 
-For the current rate of PICKLE emissions, please navigate to [https://app.pickle.finance/](https://app.pickle.finance) and hold your mouse over the TOTAL SUPPLY.
+For the current rate of PICKLE emissions, please navigate to [https://app.pickle.finance/](https://app.pickle.finance/) and hold your mouse over the TOTAL SUPPLY.
 
 You can also see the live circulating supply [here](https://duneanalytics.com/embeds/12459/24916/fPVi6QwWPaxGaIoIhEegry7tN8iVEaIaRHOv1xk7).
 

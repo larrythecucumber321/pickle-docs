@@ -4,7 +4,7 @@ All key admin functions on the[ MasterChef](https://etherscan.io/address/0xbD17B
 
 All key admin functions relating to the[ PickleJars](https://docs.pickle.finance/jars/jars) are controlled by a[ 12 hour timelock contract](https://etherscan.io/address/0xD92c7fAa0Ca0e6AE4918f3a83d9832d9CAEAA0d3).
 
-You can watch the [TimeLock](https://timelock.pickle.finance) to be aware of upcoming changes, or serve as a Pickle Early Warning Watchman.
+You can watch the [TimeLock](https://timelock.pickle.finance/) to be aware of upcoming changes, or serve as a Pickle Early Warning Watchman.
 
 Each of the above timelock contracts must be executed through a 2/5 community[ multisig wallet](https://etherscan.io/address/0x9d074E37d408542FD38be78848e8814AFB38db17). The current multisig keyholders are as follows:
 

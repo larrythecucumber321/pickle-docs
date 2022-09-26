@@ -16,10 +16,9 @@ Liquidity Pools are a staple feature of Decentralized Finance, and are worth a d
 
 For example, if the price of Ethereum goes up on centralized exchanges, an arbitrageur will come and buy some Ethereum from the pool, paying in Dai. This adds Dai to the pool (the buyer has paid in Dai), and removes Ethereum from the pool (the buyer has purchased Ethereum). The pool recognizes the change in the ratio of its tokens and adjusts the price accordingly.&#x20;
 
-The important thing to note here is that as one of the tokens goes up in value, traders will come and buy that token from the liquidity pool. As a token drops in value, traders will come and sell that token to the pool. In effect, a liquidity pool will always **“buy the dip” and “sell the pop”**. It will buy more of the token that is falling, and sell more of the token that is rising.&#x20;
+The important thing to note here is that as one of the tokens goes up in value, traders will come and buy that token from the liquidity pool. As a token drops in value, traders will come and sell that token to the pool. In effect, a liquidity pool will always **“buy the dip” and “sell the top”**. It will buy more of the token that is falling, and sell more of the token that is rising.&#x20;
 
-Users should consider providing liquidity for a pool when they are neutral or bullish on all tokens in the pool, are uncertain which token will outperform the other, and accept that they will not achieve huge profits if only one of those tokens goes sharply up. \
-
+Users should consider providing liquidity for a pool when they are neutral or bullish on all tokens in the pool, are uncertain which token will outperform the other, and accept that they will not achieve huge profits if only one of those tokens goes sharply up.&#x20;
 
 ### Other types of investments
 

@@ -4,7 +4,7 @@
 
 ### MixBytes Audit
 
-An audit of the full suite of Pickle Finance smart contracts by[ MixBytes](https://mixbytes.io) commenced on October 3, 2020.
+An audit of the full suite of Pickle Finance smart contracts by[ MixBytes](https://mixbytes.io/) commenced on October 3, 2020.
 
 To date, all of the PickleJar strategy contracts created in 2020 have been audited.&#x20;
 
@@ -14,7 +14,7 @@ An audit of the remaining contracts is underway and is expected to complete shor
 
 ### Haechi Audit
 
-An audit of the full suite of Pickle Finance smart contracts by[ Haechi](https://audit.haechi.io) commenced on October 20, 2020. The completed audit report can be found [here](https://github.com/pickle-finance/protocol/raw/master/audits/Haechi\_Audit.pdf).
+An audit of the full suite of Pickle Finance smart contracts by[ Haechi](https://audit.haechi.io/) commenced on October 20, 2020. The completed audit report can be found [here](https://github.com/pickle-finance/protocol/raw/master/audits/Haechi\_Audit.pdf).
 
 ### Peckshield Audit of DILL
 

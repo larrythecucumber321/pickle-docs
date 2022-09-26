@@ -35,23 +35,25 @@
 
 ## PICKLE Token
 
-* [How to get PICKLE](pickle-token/how-to-get-pickle.md)
+* [How to get $PICKLE](pickle-token/how-to-get-pickle.md)
 * [Tokenomics and Emission Schedule](pickle-token/tokenomics-and-emission-schedule.md)
-* [Uses of PICKLE Token](pickle-token/uses-of-pickle-token.md)
+* [Uses of $PICKLE](pickle-token/uses-of-pickle-token.md)
 
-## DILL
+## 🥒 $DILL <a href="#dill" id="dill"></a>
 
-* [Vote Locking PICKLE for DILL](dill/vote-locking-pickle-for-dill.md)
-* [Benefits of DILL](dill/benefits-of-dill.md)
-* [Locking PICKLE for DILL (Walkthrough)](dill/locking-pickle-for-dill-walkthrough.md)
-* [Farm Weights Voting](dill/farm-weights-voting.md)
+* [What is $DILL?](dill/what-is-usddill.md)
+* [Benefits of $DILL](dill/benefits-of-usddill.md)
+* [$DILL and Governance](dill/usddill-and-governance.md)
+
+## 🌽 $CORN
+
+* [What is $CORN?](usdcorn/what-is-usdcorn.md)
 
 ## 🙋 FAQs
 
 ***
 
 * [Main FAQ](main-faq.md)
-* [What is Cornichon?](what-is-cornichon.md)
 
 ## Appendix C - Previous Docs
 
