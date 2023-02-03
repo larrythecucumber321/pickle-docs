@@ -51,7 +51,7 @@ A: Pickle Jars **compound** your returns for you. Pickle Farms **reward** you wi
 
 
 **Q: How often do the farms compound?**\
-A: Some are every few hours, others every few days or longer. It depends on the value of tokens in the jars. You can check the #harvest channel in [Discord](https://discord.gg/picklefinance) for how often a jar compounds.\
+A: Some are every few hours, others every few days or even longer. It depends on the value of tokens in the jars. You can check the #harvest channel in [Discord](https://discord.gg/picklefinance) for how often a jar compounds.\
 \
 
 
