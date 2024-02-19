@@ -77,7 +77,7 @@ Should a PIP be passed, it continues to remain unbinding subject to the team's a
 Our community members, or ‘Picklers’, can be found all over the interwebs: but are generally most active on the Discord server. This is where members discuss strategies, report bugs, or help solve each others’ problems in real-time. \
 
 
-Discord - the official channel for Pickle Finance discussions ([http://discord.gg/pickle-finance](http://discord.gg/pickle-finance))
+Discord - the official channel for Pickle Finance discussions ([https://discord.com/invite/c8aUkYNT8y](https://discord.com/invite/c8aUkYNT8y))
 
 Twitter ([https://twitter.com/picklefinance](https://twitter.com/picklefinance))
 
